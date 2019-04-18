@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Nesting Box -->
+  <CCPSS_NestingBox.label>Legenest für Eier</CCPSS_NestingBox.label>
+  <CCPSS_NestingBox.description>Ein Nistkästchen für Eier.</CCPSS_NestingBox.description>
+  <CCPSS_NestingBox_Blueprint.label>Legenest (Entwurf)</CCPSS_NestingBox_Blueprint.label>
+  <CCPSS_NestingBox_Blueprint_Install.label>Nistkasten (Entwurf)</CCPSS_NestingBox_Blueprint_Install.label>
+  <CCPSS_NestingBox_Frame.label>Legenest (wird gebaut)</CCPSS_NestingBox_Frame.label>
+  <CCPSS_NestingBox_Frame.description>Ein Nistkästchen für Eier.</CCPSS_NestingBox_Frame.description>
+
+  <!-- Medicine Cabinet -->
+  <CCPSS_MedicineCabinet.label>Medizinkasten Vitrine</CCPSS_MedicineCabinet.label>
+  <CCPSS_MedicineCabinet.description>Eine Vitrine in der sich Medizin und andere Pharmazeutika wie Drogen verstauen lässt.</CCPSS_MedicineCabinet.description>
+  <CCPSS_MedicineCabinet_Blueprint.label>Medizinkasten Vitrine (Entwurf)</CCPSS_MedicineCabinet_Blueprint.label>
+  <CCPSS_MedicineCabinet_Blueprint_Install.label>Medizinkasten Vitrine (Entwurf)</CCPSS_MedicineCabinet_Blueprint_Install.label>
+  <CCPSS_MedicineCabinet_Frame.label>Medizinkasten Vitrine (wird gebaut)</CCPSS_MedicineCabinet_Frame.label>
+  <CCPSS_MedicineCabinet_Frame.description>Eine Vitrine in der sich Medizin und andere Pharmazeutika wie Drogen verstauen lässt.</CCPSS_MedicineCabinet_Frame.description>
+
+  <!-- Crate -->
+  <CCPSS_Crate.label>Verschlag</CCPSS_Crate.label>
+  <CCPSS_Crate.description>Ein simpler Kasten in den sich aber alles packen lässt.</CCPSS_Crate.description>
+  <CCPSS_Crate_Blueprint.label>Verschlag (Entwurf)</CCPSS_Crate_Blueprint.label>
+  <CCPSS_Crate_Blueprint_Install.label>Verschlag (Entwurf)</CCPSS_Crate_Blueprint_Install.label>
+  <CCPSS_Crate_Frame.label>Verschlag (wird gebaut)</CCPSS_Crate_Frame.label>
+  <CCPSS_Crate_Frame.description>Ein simpler Kasten in den sich aber alles packen lässt.</CCPSS_Crate_Frame.description>
+
+  <!-- Shelf -->
+  <CCPSS_Shelf.label>Mittleres Regal</CCPSS_Shelf.label>
+  <CCPSS_Shelf.description>Ein Regal. Man kann Dinge darauf ablegen.</CCPSS_Shelf.description>
+  <CCPSS_Shelf_Blueprint.label>Mittleres Regal (Entwurf)</CCPSS_Shelf_Blueprint.label>
+  <CCPSS_Shelf_Blueprint_Install.label>Mittleres Regal (Entwurf)</CCPSS_Shelf_Blueprint_Install.label>
+  <CCPSS_Shelf_Frame.label>Mittleres Regal (wird gebaut)</CCPSS_Shelf_Frame.label>
+  <CCPSS_Shelf_Frame.description>Ein Regal. Man kann Dinge darauf ablegen.</CCPSS_Shelf_Frame.description>
+
+  <!-- LongShelf -->
+  <CCPSS_LongShelf.label>Langes Regal</CCPSS_LongShelf.label>
+  <CCPSS_LongShelf.description>Ein langes Regal. Man kann Dinge darauf ablegen.</CCPSS_LongShelf.description>
+  <CCPSS_LongShelf_Blueprint.label>Langes Regal (Entwurf)</CCPSS_LongShelf_Blueprint.label>
+  <CCPSS_LongShelf_Blueprint_Install.label>Langes Regal (Entwurf)</CCPSS_LongShelf_Blueprint_Install.label>
+  <CCPSS_LongShelf_Frame.label>Langes Regal (wird gebaut)</CCPSS_LongShelf_Frame.label>
+  <CCPSS_LongShelf_Frame.description>Ein langes Regal. Man kann Dinge darauf ablegen.</CCPSS_LongShelf_Frame.description>
+
+  <!-- Rack -->
+  <CCPSS_Rack.label>Schrank</CCPSS_Rack.label>
+  <CCPSS_Rack.description>Ein Schrank. Man Kann Dinge hineinstellen.</CCPSS_Rack.description>
+  <CCPSS_Rack_Blueprint.label>Schrank (Entwurf)</CCPSS_Rack_Blueprint.label>
+  <CCPSS_Rack_Blueprint_Install.label>Schrank (Entwurf)</CCPSS_Rack_Blueprint_Install.label>
+  <CCPSS_Rack_Frame.label>Schrank (wird gebaut)</CCPSS_Rack_Frame.label>
+  <CCPSS_Rack_Frame.description>Ein Schrank. Man Kann Dinge hineinstellen.</CCPSS_Rack_Frame.description>
+
+  <!-- LongRack -->
+  <CCPSS_LongRack.label>Großer Schrank</CCPSS_LongRack.label>
+  <CCPSS_LongRack.description>Ein großer Schrank. Man Kann Dinge hineinstellen.</CCPSS_LongRack.description>
+  <CCPSS_LongRack_Blueprint.label>Großer Schrank (Entwurf)</CCPSS_LongRack_Blueprint.label>
+  <CCPSS_LongRack_Blueprint_Install.label>Großer Schrank (Entwurf)</CCPSS_LongRack_Blueprint_Install.label>
+  <CCPSS_LongRack_Frame.label>Großer Schrank (wird gebaut)</CCPSS_LongRack_Frame.label>
+  <CCPSS_LongRack_Frame.description>Ein großer Schrank. Man Kann Dinge hineinstellen.</CCPSS_LongRack_Frame.description>
+
+  <!-- ResourceRack -->
+  <CCPSS_ResourceRack.label>Vorratsschrank</CCPSS_ResourceRack.label>
+  <CCPSS_ResourceRack.description>Ein störrischer Vorratsschrank. Der verträgt so einiges.</CCPSS_ResourceRack.description>
+  <CCPSS_ResourceRack_Blueprint.label>Vorratsschrank (Entwurf)</CCPSS_ResourceRack_Blueprint.label>
+  <CCPSS_ResourceRack_Blueprint_Install.label>Vorratsschrank (Entwurf)</CCPSS_ResourceRack_Blueprint_Install.label>
+  <CCPSS_ResourceRack_Frame.label>Vorratsschrank (wird gebaut)</CCPSS_ResourceRack_Frame.label>
+  <CCPSS_ResourceRack_Frame.description>Ein störrischer Vorratsschrank. Der verträgt so einiges.</CCPSS_ResourceRack_Frame.description>
+
+  <!-- LongResourceRack -->
+  <CCPSS_LongResourceRack.label>Langer Vorratsschrank</CCPSS_LongResourceRack.label>
+  <CCPSS_LongResourceRack.description>Ein langer und schwerer Vorratsschrank. Der hält was aus.</CCPSS_LongResourceRack.description>
+  <CCPSS_LongResourceRack_Blueprint.label>Langer Vorratsschrank (Entwurf)</CCPSS_LongResourceRack_Blueprint.label>
+  <CCPSS_LongResourceRack_Blueprint_Install.label>Langer Vorratsschrank (Entwurf)</CCPSS_LongResourceRack_Blueprint_Install.label>
+  <CCPSS_LongResourceRack_Frame.label>Langer Vorratsschrank (wird gebaut)</CCPSS_LongResourceRack_Frame.label>
+  <CCPSS_LongResourceRack_Frame.description>Ein langer und störrischer Vorratsschrank. Der verträgt so einiges.</CCPSS_LongResourceRack_Frame.description>
+
+  <!-- Strongbox -->
+  <CCPSS_Strongbox.label>Kiste</CCPSS_Strongbox.label>
+  <CCPSS_Strongbox.description>Eine robuste Kiste für wichtige Dinge.</CCPSS_Strongbox.description>
+  <CCPSS_Strongbox_Blueprint.label>Kiste (Entwurf)</CCPSS_Strongbox_Blueprint.label>
+  <CCPSS_Strongbox_Blueprint_Install.label>Kiste (Entwurf)</CCPSS_Strongbox_Blueprint_Install.label>
+  <CCPSS_Strongbox_Frame.label>Kiste (wird gebaut)</CCPSS_Strongbox_Frame.label>
+  <CCPSS_Strongbox_Frame.description>Eine robuste Kiste für wichtige Dinge.</CCPSS_Strongbox_Frame.description>
+
+  <!-- LargeStrongbox -->
+  <CCPSS_LargeStrongbox.label>Stabile Truhe</CCPSS_LargeStrongbox.label>
+  <CCPSS_LargeStrongbox.description>Eine stabile Truhe um Wertvolles sicher zu verwahren.</CCPSS_LargeStrongbox.description>
+  <CCPSS_LargeStrongbox_Blueprint.label>Stabile Truhe (Entwurf)</CCPSS_LargeStrongbox_Blueprint.label>
+  <CCPSS_LargeStrongbox_Blueprint_Install.label>Stabile Truhe (Entwurf)</CCPSS_LargeStrongbox_Blueprint_Install.label>
+  <CCPSS_LargeStrongbox_Frame.label>Stabile Truhe (wird gebaut)</CCPSS_LargeStrongbox_Frame.label>
+  <CCPSS_LargeStrongbox_Frame.description>Eine stabile Truhe um Wertvolles sicher zu verwahren.</CCPSS_LargeStrongbox_Frame.description>
+
+  <!-- HDShelf -->
+  <CCPSS_HDShelf.label>Waffenschrank</CCPSS_HDShelf.label>
+  <CCPSS_HDShelf.description>Ein robuster Waffenschrank zur Aufbewahrung des Arsenals.</CCPSS_HDShelf.description>
+  <CCPSS_HDShelf_Blueprint.label>Waffenschrank (Entwurf)</CCPSS_HDShelf_Blueprint.label>
+  <CCPSS_HDShelf_Blueprint_Install.label>Waffenschrank (Entwurf)</CCPSS_HDShelf_Blueprint_Install.label>
+  <CCPSS_HDShelf_Frame.label>Waffenschrank (wird gebaut)</CCPSS_HDShelf_Frame.label>
+  <CCPSS_HDShelf_Frame.description>Ein robuster Waffenschrank zur Aufbewahrung des Arsenals.</CCPSS_HDShelf_Frame.description>
+
+  <!-- HDLongShelf -->
+  <CCPSS_HDLongShelf.label>Arsenalsschrank</CCPSS_HDLongShelf.label>
+  <CCPSS_HDLongShelf.description>Ein langes und stämmiger Regal zur Aufbewahrung von Waffen.</CCPSS_HDLongShelf.description>
+  <CCPSS_HDLongShelf_Blueprint.label>Arsenalsschrank (Entwurf)</CCPSS_HDLongShelf_Blueprint.label>
+  <CCPSS_HDLongShelf_Blueprint_Install.label>Arsenalsschrank (Entwurf)</CCPSS_HDLongShelf_Blueprint_Install.label>
+  <CCPSS_HDLongShelf_Frame.label>Arsenalsschrank (wird gebaut)</CCPSS_HDLongShelf_Frame.label>
+  <CCPSS_HDLongShelf_Frame.description>Ein langes und stämmiges Regal zur Aufbewahrung von Waffen.</CCPSS_HDLongShelf_Frame.description>
+
+  <!-- CorpseLocker -->
+  <CCPSS_CorpseLocker.label>Aufbahrungsschließfächer</CCPSS_CorpseLocker.label>
+  <CCPSS_CorpseLocker.description>Ein Stauraum zur Konservierung von Leichnamen.</CCPSS_CorpseLocker.description>
+  <CCPSS_CorpseLocker_Blueprint.label>Aufbahrungsschließfächer (Entwurf)</CCPSS_CorpseLocker_Blueprint.label>
+  <CCPSS_CorpseLocker_Blueprint_Install.label>Aufbahrungsschließfächer (Entwurf)</CCPSS_CorpseLocker_Blueprint_Install.label>
+  <CCPSS_CorpseLocker_Frame.label>Aufbahrungsschließfächer (wird gebaut)</CCPSS_CorpseLocker_Frame.label>
+  <CCPSS_CorpseLocker_Frame.description>Ein Stauraum zur Konservierung von Leichnamen.</CCPSS_CorpseLocker_Frame.description>
+
+
+</LanguageData>
